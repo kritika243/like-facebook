@@ -1,6 +1,13 @@
 # Facebook Socials- Just Like Facebook
 
+A social media app similar to facebook
+
 ## Using React Js + Material UI
+
+# Upcoming Features
+
+- Register, Login for user
+- User can like-unlike posts
 
 ### Inspiration
 
