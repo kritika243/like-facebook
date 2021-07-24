@@ -1,8 +1,6 @@
-# Facebook Socials: Just Like Facebook
+# Facebook Socials- Just Like Facebook
 
 ## Using React Js + Material UI
-
-#
 
 ### Inspiration
 
