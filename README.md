@@ -8,10 +8,10 @@ A social media app similar to facebook
   <img src="https://github.com/kritika243/like-facebook/blob/main/public/app-shot.png" />
 </p>
 
-# Upcoming Features
+# What to expect in a few days
 
-- Register, Login for user
-- User can like-unlike posts
+- Creating a social media Rest API using Node.js
+- Combining API with the design
 
 ### Inspiration
 
