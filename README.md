@@ -4,9 +4,10 @@ A social media app similar to facebook
 
 ## Using React Js + Material UI
 
-<p align="center">
-  <img src="https://github.com/kritika243/like-facebook/blob/main/public/app-shot.png" />
-</p>
+<h4>
+Home Page-
+</h4>
+<img src="https://github.com/kritika243/like-facebook/blob/main/public/screenshots/home-page.png" height="400px" />
 
 # What to expect in a few days
 
