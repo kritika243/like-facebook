@@ -9,6 +9,21 @@ Home Page-
 </h4>
 <img src="https://github.com/kritika243/like-facebook/blob/main/public/screenshots/home-page.png" height="400px" />
 
+<h4>
+Login Page-
+</h4>
+<img src="https://github.com/kritika243/like-facebook/blob/main/public/screenshots/login-page.png" height="400px" />
+
+<h4>
+Register Page-
+</h4>
+<img src="https://github.com/kritika243/like-facebook/blob/main/public/screenshots/register-page.png" height="400px" />
+
+<h4>
+Profile Page-
+</h4>
+<img src="https://github.com/kritika243/like-facebook/blob/main/public/screenshots/profile-page.png" height="400px" />
+
 # What to expect in a few days
 
 - Creating a social media Rest API using Node.js
