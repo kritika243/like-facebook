@@ -22,7 +22,7 @@ Register Page-
 <h4>
 Profile Page-
 </h4>
-<img src="https://github.com/kritika243/like-facebook/blob/main/public/screenshots/profile-page.png" height="400px" />
+<img src="https://github.com/kritika243/like-facebook/blob/main/public/screenshots/profile-page.png" height="760px" />
 
 # What to expect in a few days
 
