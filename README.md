@@ -24,6 +24,14 @@ Profile Page-
 </h4>
 <img src="https://github.com/kritika243/like-facebook/blob/main/public/screenshots/profile-page.png"  />
 
+### Preview
+
+![](https://github.com/kritika243/like-facebook/blob/main/public/screenshots/home-page-in-action.gif)
+
+#
+
+![](https://github.com/kritika243/like-facebook/blob/main/public/screenshots/like-unlike.gif)
+
 # What to expect in a few days
 
 - Creating a social media Rest API using Node.js
