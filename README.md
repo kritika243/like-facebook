@@ -7,22 +7,22 @@ A social media app similar to facebook
 <h4>
 Home Page-
 </h4>
-<img src="https://github.com/kritika243/like-facebook/blob/main/public/screenshots/home-page.png" height="400px" />
+<img src="https://github.com/kritika243/like-facebook/blob/main/public/screenshots/home-page.png" />
 
 <h4>
 Login Page-
 </h4>
-<img src="https://github.com/kritika243/like-facebook/blob/main/public/screenshots/login-page.png" height="400px" />
+<img src="https://github.com/kritika243/like-facebook/blob/main/public/screenshots/login-page.png"  />
 
 <h4>
 Register Page-
 </h4>
-<img src="https://github.com/kritika243/like-facebook/blob/main/public/screenshots/register-page.png" height="400px" />
+<img src="https://github.com/kritika243/like-facebook/blob/main/public/screenshots/register-page.png" />
 
 <h4>
 Profile Page-
 </h4>
-<img src="https://github.com/kritika243/like-facebook/blob/main/public/screenshots/profile-page.png" height="760px" />
+<img src="https://github.com/kritika243/like-facebook/blob/main/public/screenshots/profile-page.png"  />
 
 # What to expect in a few days
 
